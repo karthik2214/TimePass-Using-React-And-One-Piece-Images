@@ -1,6 +1,6 @@
 # TimePass-Using-React-And-One-Piece-Images
 
-Install this in your machine
+To Install this in your machine
 
 1) Open terminal in your machine if your in android download termux from playstore.
 2) Install git using pkg i git (In termux) and apt i git (In terminal in your pc/laptop).
